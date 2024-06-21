@@ -1,5 +1,5 @@
-## Developed live on twitch
-[ThePrimeagen](https://twitch.tv/ThePrimeagen)
+## Developed live on FrontendMasters
+[ThePrimeagen : The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/)
 
 ## Naming
 ### Lig-Machine
